@@ -1,5 +1,5 @@
 
-```markdown
+
 # School Management System
 
 ## Overview
